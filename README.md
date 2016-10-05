@@ -1,4 +1,6 @@
-# projetOC
-Projet de test pour OpenClassRoom
+# Shells
+(Projet de test pour OpenClassRoom)
 
-Analyse de fichier en shell
+Fonctions:
+- Analyse de fichier en shell
+- Analyse de process en shell
